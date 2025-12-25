@@ -46,3 +46,5 @@ Model Training
 
 Evaluation:
 *   The final cells run the model on the "Test Set" (data from Oct-Dec 2022) to see how well it predicts the future.
+
+Want to thank my groupmates, Kyler, Paul, Abdul, Eric, and Ryan
